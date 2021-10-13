@@ -1,0 +1,54 @@
+.one {
+  color: burlywood;
+  margin-left: 30px;
+}
+
+.center {
+  margin-left: 300px;
+  margin-top: 170px;
+  background-color: #eef1f0;
+  width: 500px;
+  height: 255px;
+  padding-left: 200px;
+  padding-top: 5px;
+}
+
+.btn {
+  margin-left: 65px;
+  width: 90px;
+  height: 35px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+span {
+  margin-left: 100px;
+}
+
+.result {
+  position: absolute;
+  margin-left: 270px;
+  margin-top: 30px;
+
+  border: 1px solid black;
+  background-color: white;
+  width: 70px;
+  height: 40px;
+}
+
+h6 {
+  margin-left: 240px;
+  position: absolute;
+  margin-top: 48px;
+}
+
+p {
+  margin-top: 5px;
+  font-size: 15px;
+  padding-left: 15px;
+  padding-top: 7px;
+}
+
+input {
+  height: 40px;
+}
